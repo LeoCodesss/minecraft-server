@@ -1,2 +1,4 @@
+import os
+
 versions=[]
-minecraftPath = "/minecraft-server/"
+minecraftPath = os.getcwd()
