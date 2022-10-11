@@ -1,0 +1,2 @@
+versions=[]
+minecraftPath = "/minecraft-server/"
